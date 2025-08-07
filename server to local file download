@@ -1,0 +1,1 @@
+scp -i "C:\Users\abira\Downloads\your-key.pem" ubuntu@13.60.249.246:/home/ubuntu/keyinstance/ec2-key.pem C:\Users\abira\Downloads\
