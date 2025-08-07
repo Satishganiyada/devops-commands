@@ -1,0 +1,1 @@
+ scp -i "C:\Users\abira\Downloads\my_1st_instance.pem" "C:\Users\abira\Downloads\shell.sh" ubuntu@13.60.249.246:/home/ubuntu/
